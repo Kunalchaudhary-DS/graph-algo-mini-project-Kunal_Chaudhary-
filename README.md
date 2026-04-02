@@ -1,4 +1,4 @@
-# Graph Algorithms Mini Project
+# Graph Algorithms Assignment
 
 This project demonstrates the implementation and analysis of fundamental graph algorithms used in real-world applications such as network routing, task scheduling, and path finding.
 
